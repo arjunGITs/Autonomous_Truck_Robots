@@ -97,7 +97,7 @@ Also used to obtain point-cloud shapes of interested objects.
 
 <div style="width:400px">
 
-![image](README_Data/slam/slam_map_pic.jpg "Research Laboratory Setup")
+![image](README_Data/slam/slam_map_pic.JPG "Research Laboratory Setup")
 </div>
 <br />
 
@@ -138,7 +138,7 @@ Simulation of complementary LiDAR sensor data fusion.
 </div>
 <br />
 
-## Realtime Motion Sensing::
+## Realtime Motion Sensing:
 
 <div style="width:600px">
 
