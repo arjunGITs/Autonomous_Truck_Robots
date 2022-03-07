@@ -160,7 +160,7 @@ Simulation of complementary LiDAR sensor data fusion.
 </div>
 <br />
 
-## Camera Server: Click a picture:
+## Camera Server: Click a picture using Robot's Camera
 
 <div style="width:600px">
 
