@@ -152,6 +152,22 @@ Simulation of complementary LiDAR sensor data fusion.
 </div>
 <br />
 
+## LiDAR Server: Find closest obstacle distance:
+
+<div style="width:600px">
+
+![image](README_Data/lidar_closest_obstacle_distance_service/closest_obstacle_distance_service.JPG "Research Laboratory Setup")
+</div>
+<br />
+
+## Camera Server: Click a picture:
+
+<div style="width:600px">
+
+![image](README_Data/camera_capture_service/camera_capture_service.gif "Research Laboratory Setup")
+</div>
+<br />
+
 
 
 
