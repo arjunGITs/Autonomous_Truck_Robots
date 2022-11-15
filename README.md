@@ -2,7 +2,7 @@
 
 # Autonomous Truck Robots
 
-#### _(Ongoing Project)_ 
+#### _(Engineering Doctoral Thesis, Eindhoven University of Technology)_ 
 This is an overview of a Perception-Module software stack developed to research machine perception of autonomous trucks/buses, where different possible system-architectures could be explored and various features could be experimented. 
 
 This perception system has been developed with the help of autonomous scaled-down truck-like robots in a research laboratory. The major use-cases chosen were the automation of Distribution-Centers/Bus-Depots. 
